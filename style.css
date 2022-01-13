@@ -1,0 +1,71 @@
+#div1{
+    text-align: center;
+    font-family: fantasy;
+    text-decoration: underline;
+    background: rgb(59, 58, 58);
+    /* height: 25vh; */
+    width: 100%;
+    padding: 20px;
+}
+
+.vide{
+    background-color: rgb(15, 14, 14);
+}
+h1{
+    border: solid 3px black;
+    /* text-align: center; */
+    width: 500px;
+    border-radius: 10px;
+
+}
+
+table{
+width: 100%;
+height: 50vh;
+text-align: center;
+/* border: solid 1px ; */
+border-collapse:collapse;
+/* margin-top: 200px; */
+margin-bottom: 200px;
+margin-top: 150px;
+
+}
+
+
+#tr6{
+    background-color: black;
+}
+
+th{
+    border: solid 5px ;
+background-color: rgb(161, 161, 161);
+}
+
+td{
+    font-size: 25px;
+    border: solid 5px ;
+}
+
+#PC abbr{
+    text-decoration: none;
+}
+
+footer{
+    margin-top: 500px;
+    width: 100%;
+    height: 80px;
+    background-color: rgb(212, 212, 212);
+    color: rgb(0, 0, 0);
+    
+}
+
+hr{
+    height: 5px;
+background-color: black;
+border: 0px;
+
+}
+
+body{
+    background: rgb(175, 175, 175);
+}
